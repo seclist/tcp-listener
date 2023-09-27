@@ -1,2 +1,2 @@
 # tcp-listener
-free tcp listener python
+change the ip and port to suit ur target then run.
